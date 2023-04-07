@@ -1,0 +1,196 @@
+* {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    
+}
+
+p {
+
+    margin: 0;
+}
+
+
+.containerHeader {
+    width: 100%;
+    min-height: 30px;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #99B5F0;
+    align-items: center;
+    
+   }
+.telefonoMail {
+    display: flex;
+    align-items: center;
+
+}
+.redeSociales {
+    display: flex;
+    align-items: center;
+   }
+
+.containerMain {
+   display: flex;
+   align-items: center;
+   background-color: #99B5F0
+
+}
+.fuente {
+    font-family: 'Schibsted Grotesk', sans-serif;;
+}
+
+.Textoquienes {
+   display: flex;
+   align-items: center;
+   border: 5px solid #5566D4;
+   
+}
+
+.Servicioo {
+
+display: flex;
+justify-content: center ;
+background-color: #99B5F0;
+
+}
+
+.imgMantenimiento {
+
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+}
+
+.imgSoporte {
+    
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+
+}
+
+.imgCamaras {
+
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+}
+
+.imgBackup {
+
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+
+}
+
+.imgHosting {
+
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+}
+
+.imgSoftware {
+
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+}
+
+.imgComputadora {
+
+    width: 600px;
+    height: 398px;
+   
+   
+
+}
+
+.ventaEquipos {
+
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color:#99B5F0;
+    
+}
+ .ImgContacto {
+
+    display: flex;
+    margin: auto;
+    padding-left: 100px;
+ }
+.Contactanos {
+
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color:#99B5F0;
+}
+
+
+.ContainerContacto .row {
+
+
+
+
+}
+
+#Imgcontact {
+    float: left;
+}
+
+#formContact {
+    float: left;
+}
+
+.ContainerContacto .form {
+
+    background: #5566D4;
+    width: 90%;
+    max-width: 650px;
+    margin: auto;
+    padding: 5px 35px;
+    margin-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 3px;
+}
+.imgContactanos {
+    float:left ;
+}
+.form {
+    float: left;
+}
+.ContainerContacto .form .form-label {
+
+    display: block;
+    font-size: 20px;
+    position: relative;
+
+}
+ .ContainerContacto .form .form-input, .form-textarea {
+
+    border: none;
+    outline: none;
+    border-bottom: 2px solid #5566D4;
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 15px;
+    border-radius: 2px;
+    font-size: 14px;
+ }
